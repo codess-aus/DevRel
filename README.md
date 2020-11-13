@@ -2,11 +2,10 @@
 
 
 ## Table of Contents
-* [What, Where, Why?](#what-where-why)
 * [Courses](#courses)
 * [YouTube Videos](#youtube-videos)
-* [Follow Some Mentors](#follow-some-mentors)
-* [Get Involved](#get-involved)
+* [Blogs and Articles](#blogs-and-articles)
+* [Books](#books)
 * [Practice](#practice)
 * [Listen to Some Podcasts](#listen-to-some-podcasts)
 * [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
@@ -45,4 +44,9 @@
 | [Developer Marketing and Relations: The Essential Guide](https://www.amazon.com/gp/product/B08KH3T5TN/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1) |SlashData | 1 | A great book |
 | [The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/gp/product/1484237471/ref=ox_sc_act_title_3?smid=A1HNZ4TJ80K7EN&psc=1) | Mary Thengvall | 1 | A great book |
 
+## Mentors
+
+| Name | Author | Step | Comments |  
+|------|--------|------------------|----------------|  
+| [The Community Builder](https://www.marythengvall.com/) | MARY THENGVALL | 1 | Mother of Communities |
 
