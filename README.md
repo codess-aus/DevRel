@@ -42,7 +42,7 @@
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Developer, Advocate!: Conversations on turning a passion for talking about tech into a career](https://www.amazon.com/gp/product/1789138744/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) |Geertjan Wielenga | 1 | A great book |
-| Developer Marketing and Relations: The Essential Guide](https://www.amazon.com/gp/product/B08KH3T5TN/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1) |SlashData | 1 | A great book |
-| The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/gp/product/1484237471/ref=ox_sc_act_title_3?smid=A1HNZ4TJ80K7EN&psc=1) | Mary Thengvall | 1 | A great book |
+| [Developer Marketing and Relations: The Essential Guide](https://www.amazon.com/gp/product/B08KH3T5TN/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1) |SlashData | 1 | A great book |
+| [The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/gp/product/1484237471/ref=ox_sc_act_title_3?smid=A1HNZ4TJ80K7EN&psc=1) | Mary Thengvall | 1 | A great book |
 
 
