@@ -48,6 +48,8 @@
 | [How to become a DevRel? Tips + stories from the Flyless community](https://www.youtube.com/watch?v=iUZerHctTB8) | Eddie Jaoude | 1 | Welcome to a warm, welcoming, inclusive community. We want to collaborate with you to create a better Developer Relations model that better suits the times |
 | [Influence with Purpose How to Identify, Execute and Measure Your DevRel Strategy](https://www.youtube.com/watch?v=6HuDti5dbyg) | Benjamin Mostafa | 1 | DevRelCon Tokoyo Talk |
 | [Devrel - Misconceptions of a Developer Relations Advocate](https://www.youtube.com/watch?v=FrncUGYzdKw) | dotnet media | 1 | Ben Lesh and Tracy Lee interview Tessa Mero, Developer Advocate at Cloudinary about developer relations |
+| [Measuring developer relations](https://www.youtube.com/watch?v=NRTUA0cSMnQ) | Rey Bango | 1 | Measuring return on investment of developer relations activity is important for the longevity of dev rel teams but also a source of disagreement on how best to do it |
+
 
 ## Blogs and Articles
 
