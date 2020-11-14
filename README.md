@@ -37,6 +37,9 @@
 |------|--------|------------------|----------------|  
 | [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
 | [Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/) |Bear Douglas | 1 | A great blog post about becoming a technical evangelist |
+| [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
+
+
 
 
 ## Books
@@ -45,7 +48,7 @@
 |------|--------|------------------|----------------|  
 | [Developer, Advocate!: Conversations on turning a passion for talking about tech into a career](https://www.amazon.com/gp/product/1789138744/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) |Geertjan Wielenga | 1 | A great book |
 | [Developer Marketing and Relations: The Essential Guide](https://www.amazon.com/gp/product/B08KH3T5TN/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1) |SlashData | 1 | A great book |
-| [The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/gp/product/1484237471/ref=ox_sc_act_title_3?smid=A1HNZ4TJ80K7EN&psc=1) | Mary Thengvall | 1 | A great book |
+| [What Is Developer Relations?](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care) | Mary Thengvall | 1 | A great book |
 
 ## Mentors
 
