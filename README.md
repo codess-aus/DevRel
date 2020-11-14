@@ -66,7 +66,11 @@
 |------|--------|------------------|----------------|  
 | [Developer, Advocate!: Conversations on turning a passion for talking about tech into a career](https://www.amazon.com/gp/product/1789138744/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) |Geertjan Wielenga | 1 | A great book |
 | [Developer Marketing and Relations: The Essential Guide](https://www.amazon.com/gp/product/B08KH3T5TN/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1) |SlashData | 1 | A great book |
-| [What Is Developer Relations?](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care) | Mary Thengvall | 1 | A great book |
+| [The Business Value of Developer Relations](https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=persea-20&linkId=e4a6e9164220ac63f4f807643935dd27) | Mary Thengvall | 1 | The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success |
+| [The Developer's Guide to Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) |Stephani Morillo | 1 | A great book |
+| [Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019) | Kathy Sierra | 1 | A great book |
+| [Success in Programming](https://www.apress.com/us/book/9781484200025) |  Frederic Harper | 1 | How to Gain Recognition, Power, and Influence Through Personal Branding |
+
 
 ## Mentors
 
