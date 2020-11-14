@@ -36,6 +36,8 @@
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
+| [Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/) |Bear Douglas | 1 | A great blog post about becoming a technical evangelist |
+
 
 ## Books
 
