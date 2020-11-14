@@ -1,5 +1,5 @@
 # DevRel
-*This is is a work in progress, lemme build the template out and some resources and then we'll tidy it up. Help if you want to, raise an issue and say how you'll solve it*
+*This is is a work in progress. Help if you want to, raise an issue and say how you'll solve it*
 
 <p><img align="center" src="https://github.com/msandfor/DevRel/blob/main/assets/community.jpg" alt="Community photo"></p>
 <p align="center"></p>
