@@ -46,7 +46,7 @@
 | [Sympathy for the DevRel](https://www.youtube.com/watch?v=zx22jW9MXuI) | James Governor | 1 | Empathy is a big theme in developer relations but we've got to remember that it goes both ways. RedMonk’s James Governor makes the case for taking care of ourselves in dev rel as we also care for our developer communities, in his Stones-inspired talk |
 | [Lessons Learned on the DevRel Road](https://www.youtube.com/watch?v=dgY9kzaoOjQ) | Tamao Nakahara | 1 |OpenShift Commons Gathering on Community Development |
 | DevRel: Advocates, Evangelists, and Avocados](https://www.youtube.com/watch?v=mrEhwqshxiM) | OpenSource.com | 1 | SCaLE 17x UpScale Lightning Talks |
-
+| How to become a DevRel? Tips + stories from the Flyless community](https://www.youtube.com/watch?v=iUZerHctTB8) | Eddie Jaoude | 1 | Welcome to a warm, welcoming, inclusive community. We want to collaborate with you to create a better Developer Relations model that better suits the times |
 
 ## Blogs and Articles
 
