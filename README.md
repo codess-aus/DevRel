@@ -42,6 +42,7 @@
 | [Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/) |Bear Douglas | 1 | A great blog post about the DevRel Career Path |
 | [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
 | [The Camunda Developer Relations Career Path](https://www.marythengvall.com/blog/2020/6/29/the-camunda-developer-relations-career-path) | Mary Thengvall | 1 | A great blog post about the DevRel Career Path |
+| [What Is Developer Relations (And Why Should You Care?)](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care) | Mary Thengvall | 1 | A great blog post about the DevRel Career Path |
 
 
 
