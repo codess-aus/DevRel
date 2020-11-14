@@ -41,7 +41,7 @@
 |------|--------|------------------|----------------|  
 | [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
 | [Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/) |Bear Douglas | 1 | A great blog post about becoming a technical evangelist |
-| [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
+| [The Camunda Developer Relations Career Path](https://www.marythengvall.com/blog/2020/6/29/the-camunda-developer-relations-career-path) | Mary Thengvall | 1 | A great blog post about becoming a technical evangelist |
 
 
 
