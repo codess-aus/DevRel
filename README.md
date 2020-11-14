@@ -50,8 +50,7 @@
 | [How I became a Technical Evangelist](https://fred.dev/how-i-became-a-technical-evangelist/) |Frédéric Harper | 1 | A great blog post about becoming a technical evangelist |
 | [The Camunda Developer Relations Career Path](https://www.marythengvall.com/blog/2020/6/29/the-camunda-developer-relations-career-path) | Mary Thengvall | 1 | A great blog post about the DevRel Career Path |
 | [What Is Developer Relations (And Why Should You Care?)](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care) | Mary Thengvall | 1 | A great blog post about the DevRel Career Path |
-
-
+| The Developer Relations Explainer](https://dev.to/kimmaida/the-developer-relations-explainer-431o) | Kim Maida | 1 | A great blog post about the 4 DevRel Roles |
 
 
 ## Books
@@ -67,4 +66,14 @@
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [The Community Builder](https://www.marythengvall.com/) | MARY THENGVALL | 1 | Mother of Communities |
+
+## Podcasts
+
+| Name | Author | Step | Comments |  
+|------|--------|------------------|----------------|  
+| [Working in Developer Relations with Kim Maida on RealTalkJS #95](https://johnpapa.net/working-in-developer-relations-with-kim-maida-on-real/) |John Papa | 1 | Kim Maida joins John, Ward, and Dan to talk about her career in developer relations - what her journey has been like, reasons to get into dev rel, what to look for when hiring someone in developer relations, how to bring feedback from the field to your product team, and processes Kim has set up to make developer relations easier for everyone |
+
+
+
+
 
