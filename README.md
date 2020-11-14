@@ -7,6 +7,7 @@
 
 
 ## Table of Contents
+* [Overview](#overview)
 * [Courses](#courses)
 * [YouTube Videos](#youtube-videos)
 * [Blogs and Articles](#blogs-and-articles)
@@ -20,6 +21,12 @@
 * [And Then What?](#and-then-what?)
 
 # Resources
+
+## Overview
+| Name | Author | Step | Comments |  
+|------|--------|------------------|----------------|  
+| [Camunda Developer Relations - Career Path](https://docs.google.com/spreadsheets/d/e/2PACX-1vRQacA6lQTwJeiWrpTFgor-7UkcVtfRQ2GseMwbC2ZlflDLRyhEmrSBawTbBf1fAgD1g2owPzhfiC2u/pubhtml#) | Camunda | 1 | DevRel Role Descriptions |
+
 
 ## Courses
 
