@@ -61,6 +61,10 @@
 | [What Is Developer Relations (And Why Should You Care?)](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care) | Mary Thengvall | 1 | A great blog post about the DevRel Career Path |
 | [The Developer Relations Explainer](https://dev.to/kimmaida/the-developer-relations-explainer-431o) | Kim Maida | 1 | A great blog post about the 4 DevRel Roles |
 | [The Developer Advocacy Feedback Loop](http://glaforge.appspot.com/article/the-developer-advocacy-feedback-loop) | Guillaume Laforge | 1 | Developer Advocates are here to represent users, developers, technical practitioners, to influence the roadmap and development of the services and products to suit their needs. That’s the internal advocacy that loops back into improving the products |
+| [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) | Ashley Mcnamara | 1 | A great blog post about DevRel |
+| [What does a developer evangelist/advocate do?](https://chrisheilmann.medium.com/what-does-a-developer-evangelist-advocate-do-3ad936dff3e4) | Christian Heilmann | 1 | A great blog post about DevRel |
+| [The Three Pillars of Developer Relations & Developer Advocates](https://medium.com/future-vision/the-three-pillars-of-developer-relations-developer-advocates-515816aca251) | Future Vision | 1 |This story covers my take and perspective on Developer Relations / Developer Advocacy / Developer Evangelism, and how to implement a successful program within your company |
+| A Day in the Life of a Developer Evangelist](https://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/) | COURTNEY BOYD MYERS  | 1 | A great blog post about A Day in the Life of a Developer Evangelist |
 
 
 
@@ -74,6 +78,8 @@
 | [The Developer's Guide to Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) |Stephani Morillo | 1 | A great book |
 | [Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019) | Kathy Sierra | 1 | A great book |
 | [Success in Programming](https://www.apress.com/us/book/9781484200025) |  Frederic Harper | 1 | How to Gain Recognition, Power, and Influence Through Personal Branding |
+| [The Developer Evangelist Handbook](http://developer-evangelism.com/) |  Chris Heilmann | 1 | The Developer Evangelist Handbook |
+
 
 
 ## Mentors
