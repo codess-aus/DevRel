@@ -64,7 +64,7 @@
 | [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) | Ashley Mcnamara | 1 | A great blog post about DevRel |
 | [What does a developer evangelist/advocate do?](https://chrisheilmann.medium.com/what-does-a-developer-evangelist-advocate-do-3ad936dff3e4) | Christian Heilmann | 1 | A great blog post about DevRel |
 | [The Three Pillars of Developer Relations & Developer Advocates](https://medium.com/future-vision/the-three-pillars-of-developer-relations-developer-advocates-515816aca251) | Future Vision | 1 |This story covers my take and perspective on Developer Relations / Developer Advocacy / Developer Evangelism, and how to implement a successful program within your company |
-| A Day in the Life of a Developer Evangelist](https://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/) | COURTNEY BOYD MYERS  | 1 | A great blog post about A Day in the Life of a Developer Evangelist |
+| [A Day in the Life of a Developer Evangelist](https://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/) | COURTNEY BOYD MYERS  | 1 | A great blog post about A Day in the Life of a Developer Evangelist |
 
 
 
