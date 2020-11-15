@@ -87,6 +87,8 @@
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [The Community Builder](https://www.marythengvall.com/) | MARY THENGVALL | 1 | Mother of Communities |
+| [Microsoft Developer Advocates](https://developer.microsoft.com/en-us/advocates/) | Microsoft | 1 | All the current Microsoft avocados |
+
 
 ## Podcasts
 
