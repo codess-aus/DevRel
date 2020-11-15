@@ -66,7 +66,7 @@
 | [The Three Pillars of Developer Relations & Developer Advocates](https://medium.com/future-vision/the-three-pillars-of-developer-relations-developer-advocates-515816aca251) | Future Vision | 1 |This story covers my take and perspective on Developer Relations / Developer Advocacy / Developer Evangelism, and how to implement a successful program within your company |
 | [A Day in the Life of a Developer Evangelist](https://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/) | COURTNEY BOYD MYERS  | 1 | A great blog post about A Day in the Life of a Developer Evangelist |
 | [How to become a Developer Advocate: my story and some practical tips](https://www.freecodecamp.org/news/how-to-become-a-developer-advocate-my-story-and-some-practical-tips-bfb27552657e/) | Mariya Davydova  | 1 | A great blog post about how to become a Devloper Advocate |
-
+| [What is a Developer Advocate and Why I became One](https://launchdarkly.com/blog/what-is-a-developer-advocate/) | Dawn Parzych | 1 | A great blog post about the what and why of becoming a Devloper Advocate |
 
 ## Books
 
