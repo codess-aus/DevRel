@@ -68,6 +68,8 @@
 | [How to become a Developer Advocate: my story and some practical tips](https://www.freecodecamp.org/news/how-to-become-a-developer-advocate-my-story-and-some-practical-tips-bfb27552657e/) | Mariya Davydova  | 1 | A great blog post about how to become a Devloper Advocate |
 | [What is a Developer Advocate and Why I became One](https://launchdarkly.com/blog/what-is-a-developer-advocate/) | Dawn Parzych | 1 | A great blog post about the what and why of becoming a Devloper Advocate |
 | [Three years ago I attended a coding bootcamp. Today I became a Google Developer Advocate](https://www.freecodecamp.org/news/three-years-ago-i-attended-a-coding-bootcamp-today-i-became-a-google-developer-advocate-b89fae03d476/) | Jennifer Bland | 1 | A great blog post about becoming a Google Developer Expert |
+| [What the heck is a Developer Advocate?](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/) | Wassim Chegham | 1 | A great blog post about what a Developer Advocate is |
+
 
 ## Books
 
