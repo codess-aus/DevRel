@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github.com/msandfor/DevRel/blob/main/assets/community.jpg" alt="Community photo"></p>
 <p align="center"></p>
 
-
+Career Path for Developer Avocados
 
 ## Table of Contents
 * [Overview](#overview)
