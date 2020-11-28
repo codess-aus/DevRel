@@ -70,6 +70,8 @@ Career Path for Developer Avocados
 | [Three years ago I attended a coding bootcamp. Today I became a Google Developer Advocate](https://www.freecodecamp.org/news/three-years-ago-i-attended-a-coding-bootcamp-today-i-became-a-google-developer-advocate-b89fae03d476/) | Jennifer Bland | 1 | A great blog post about becoming a Google Developer Expert |
 | [What the heck is a Developer Advocate?](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/) | Wassim Chegham | 1 | A great blog post about what a Developer Advocate is |
 | [I'm Now a Developer Advocate at Google!](https://dzone.com/articles/im-now-a-developer-advocate-at-google) | Robert Nyman | 1 | One Developers Career Path |
+| [How I got into developer advocacy](https://medium.com/@dzello/how-i-got-into-developer-advocacy-93bad1678a67) | Josh Dzielak  | 1 | One Developers Career Path |
+
 
 
 
