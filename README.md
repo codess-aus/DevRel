@@ -71,6 +71,8 @@ Career Path for Developer Avocados
 | [What the heck is a Developer Advocate?](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/) | Wassim Chegham | 1 | A great blog post about what a Developer Advocate is |
 | [I'm Now a Developer Advocate at Google!](https://dzone.com/articles/im-now-a-developer-advocate-at-google) | Robert Nyman | 1 | One Developers Career Path |
 | [How I got into developer advocacy](https://medium.com/@dzello/how-i-got-into-developer-advocacy-93bad1678a67) | Josh Dzielak  | 1 | One Developers Career Path |
+| Proving Developer Relations](http://www.mikestowe.com/blog/2016/03/proving-developer-relations.php) | Mike Stowe  | 1 | How to keep your job in Developer Relations |
+
 
 
 
