@@ -97,6 +97,8 @@ Career Path for Developer Avocados
 |------|--------|------------------|----------------|  
 | [The Community Builder](https://www.marythengvall.com/) | MARY THENGVALL | 1 | Mother of Communities |
 | [Microsoft Developer Advocates](https://developer.microsoft.com/en-us/advocates/) | Microsoft | 1 | All the current Microsoft avocados |
+| [Jessica Rose](http://jessica.tech/) | Jessica Rose | 1 | Jessica Rose is a technology professional and keynote speaker specializing in community building, outreach and developing better processes for talent in technology |
+
 
 
 ## Podcasts
