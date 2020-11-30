@@ -73,7 +73,7 @@ Career Path for Developer Avocados
 | [How I got into developer advocacy](https://medium.com/@dzello/how-i-got-into-developer-advocacy-93bad1678a67) | Josh Dzielak  | 1 | One Developers Career Path |
 | [Proving Developer Relations](http://www.mikestowe.com/blog/2016/03/proving-developer-relations.php) | Mike Stowe  | 1 | How to keep your job in Developer Relations |
 | [DevRel and the Increasing Popularity of the Developer Advocate](https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-advocate/) |The NewStack  | 1 | The Increasing Popularity of the Developer Advocate |
-
+| [5 qualities of great open source developer advocates](https://opensource.com/article/20/10/open-source-developer-advocates) | OpenSource.com | 1 | Whether you're looking to hire a developer advocate or become one, here are the qualities to aim for |
 
 
 
