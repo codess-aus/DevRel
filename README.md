@@ -1,5 +1,6 @@
 # DevRel
 *This is is a work in progress. Help if you want to, raise an issue and say how you'll solve it*
+Lots of good content to build on though, so jump in.
 
 <p><img align="center" src="https://github.com/msandfor/DevRel/blob/main/assets/community.jpg" alt="Community photo"></p>
 <p align="center"></p>
