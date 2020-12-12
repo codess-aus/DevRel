@@ -21,7 +21,7 @@ Career Path for Developer Avocados
 * [Tools](#free-tools)
 * [And Then What?](#and-then-what?)
 
-# Resources
+# Resources and more
 
 ## Overview
 | Name | Author | Step | Comments |  
