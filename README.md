@@ -50,6 +50,8 @@ Career Path for Developer Avocados
 | [Influence with Purpose How to Identify, Execute and Measure Your DevRel Strategy](https://www.youtube.com/watch?v=6HuDti5dbyg) | Benjamin Mostafa | 1 | DevRelCon Tokoyo Talk |
 | [Devrel - Misconceptions of a Developer Relations Advocate](https://www.youtube.com/watch?v=FrncUGYzdKw) | dotnet media | 1 | Ben Lesh and Tracy Lee interview Tessa Mero, Developer Advocate at Cloudinary about developer relations |
 | [Measuring developer relations](https://www.youtube.com/watch?v=NRTUA0cSMnQ) | Rey Bango | 1 | Measuring return on investment of developer relations activity is important for the longevity of dev rel teams but also a source of disagreement on how best to do it |
+| [Cloud Advocate AMA](https://www.youtube.com/watch?v=oEYw9LelTP4) | IT Ops Talks | 1 | Join Pierre Roman, Sarah Lean and Thomas Maurer for a Ask Me Anything session |
+
 
 
 ## Blogs and Articles
