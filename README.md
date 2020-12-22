@@ -80,6 +80,7 @@ Career Path for Developer Avocados
 | [5 qualities of great open source developer advocates](https://opensource.com/article/20/10/open-source-developer-advocates) | OpenSource.com | 1 | Whether you're looking to hire a developer advocate or become one, here are the qualities to aim for |
 | [How I became a Technology Evangelist](https://timoelliott.com/blog/2013/07/how-to-become-a-technology-evangelist.html) |Timo Elliot | 1 | Don't wait for someone to appoint you, just do it |
 | [Introducing Twilio Developer Evangelist Rachel Black](https://www.twilio.com/blog/introducing-twilio-developer-evangelist-rachel-black) | Twilio | 1 | Ex-teacher turned developer turned developer evangelist checking in. It’s been a winding road to my destination at Twilio, via meetups, bootcamps and hackathons. This is my journey from classroom to (online) conferences. |
+| [The 3 C’s of Developer Relations](https://sendgrid.com/blog/3-cs-developer-relations/) | SendGrid | 1 | A lot of people ask what a Developer Evangelist does, and the answers can vary a bit depending on which company they work for, and how the team is placed within the organization. Regardless of the tactics in place, all of them are based on a few core principles of Developer Relations, which I call the 3 C’s: Community, Code, and Content. |
 
 
 ## Books
