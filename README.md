@@ -51,7 +51,8 @@ Career Path for Developer Avocados
 | [Devrel - Misconceptions of a Developer Relations Advocate](https://www.youtube.com/watch?v=FrncUGYzdKw) | dotnet media | 1 | Ben Lesh and Tracy Lee interview Tessa Mero, Developer Advocate at Cloudinary about developer relations |
 | [Measuring developer relations](https://www.youtube.com/watch?v=NRTUA0cSMnQ) | Rey Bango | 1 | Measuring return on investment of developer relations activity is important for the longevity of dev rel teams but also a source of disagreement on how best to do it |
 | [Cloud Advocate AMA](https://www.youtube.com/watch?v=oEYw9LelTP4) | IT Ops Talks | 1 | Join Pierre Roman, Sarah Lean and Thomas Maurer for a Ask Me Anything session |
-
+| [What is Developer Relations?](https://dev.to/fitzycodesthings/what-is-developer-relations-an-interview-with-twilio-developer-evangelist-laylacodesit-n5b) | Twilio | 1 | An Interview with Twilio Developer Evangelist @LaylaCodesIt |
+| [What is Developer Relations?](https://dev.to/fitzycodesthings/what-is-developer-relations-an-interview-with-twilio-developer-evangelist-laylacodesit-n5b) | Twilio | 1 | An Interview with Twilio Developer Evangelist @LaylaCodesIt |
 
 
 ## Blogs and Articles
