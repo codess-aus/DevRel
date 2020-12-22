@@ -52,7 +52,7 @@ Career Path for Developer Avocados
 | [Measuring developer relations](https://www.youtube.com/watch?v=NRTUA0cSMnQ) | Rey Bango | 1 | Measuring return on investment of developer relations activity is important for the longevity of dev rel teams but also a source of disagreement on how best to do it |
 | [Cloud Advocate AMA](https://www.youtube.com/watch?v=oEYw9LelTP4) | IT Ops Talks | 1 | Join Pierre Roman, Sarah Lean and Thomas Maurer for a Ask Me Anything session |
 | [What is Developer Relations?](https://dev.to/fitzycodesthings/what-is-developer-relations-an-interview-with-twilio-developer-evangelist-laylacodesit-n5b) | Twilio | 1 | An Interview with Twilio Developer Evangelist @LaylaCodesIt |
-| [What is Developer Relations?](https://dev.to/fitzycodesthings/what-is-developer-relations-an-interview-with-twilio-developer-evangelist-laylacodesit-n5b) | Twilio | 1 | An Interview with Twilio Developer Evangelist @LaylaCodesIt |
+| [Introducing Twilio Developer Evangelist Rachel Black](https://www.twilio.com/blog/introducing-twilio-developer-evangelist-rachel-black) | Twilio | 1 | Ex-teacher turned developer turned developer evangelist checking in. It’s been a winding road to my destination at Twilio, via meetups, bootcamps and hackathons. This is my journey from classroom to (online) conferences. |
 
 
 ## Blogs and Articles
