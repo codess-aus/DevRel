@@ -5,7 +5,7 @@ Lots of good content to build on though, so jump in.
 <p><img align="center" src="https://github.com/msandfor/DevRel/blob/main/assets/community.jpg" alt="Community photo"></p>
 <p align="center"></p>
 
-Career Path for Developer Avocados
+Career Path for Developer Avocados, Technology evangelists and more
 
 ## Table of Contents
 * [Overview](#overview)
