@@ -97,7 +97,7 @@ Career Path for Developer Avocados, Technology evangelists and more
 | [Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019) | Kathy Sierra | 1 | A great book |
 | [Success in Programming](https://www.apress.com/us/book/9781484200025) |  Frederic Harper | 1 | How to Gain Recognition, Power, and Influence Through Personal Branding |
 | [The Developer Evangelist Handbook](http://developer-evangelism.com/) |  Chris Heilmann | 1 | The Developer Evangelist Handbook |
-| [The Developer Advocates Handbook](https://developer-advocacy.com/)
+| [The Developer Advocates Handbook](https://developer-advocacy.com/) |  Chris Heilmann | 1 | The Developer Advocates Handbook |
 
 
 
